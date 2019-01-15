@@ -1,0 +1,39 @@
+{
+  "name": "kilo-icon",
+  "version": "0.0.1",
+  "description": "Kilo Design System Icon Font generator",
+  "author": "Denis Gruba <denis.gruba@mypthub.net>",
+  "main": "dist/system/system.js",
+  "files": [
+    "dist/icon-font"
+  ],
+  "homepage": "",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build" : "icon-font-generator src/icons/*.svg -o dist/icon-font --prefix kilo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Denisgruba@bitbucket.org/mpth/kilo-icon.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "icon-font-generator": "^2.1.10"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 8.6.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not Explorer > 0",
+    "IE 11",
+    "not ExplorerMobile > 0",
+    "not BlackBerry > 0",
+    "not OperaMini all",
+    "not OperaMobile > 0"
+  ]
+}

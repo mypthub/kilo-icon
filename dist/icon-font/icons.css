@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.eot?3f21edd9bb5a6557f0c1411b7fe86ea9?#iefix") format("embedded-opentype"),
+url("./icons.woff2?3f21edd9bb5a6557f0c1411b7fe86ea9") format("woff2"),
+url("./icons.woff?3f21edd9bb5a6557f0c1411b7fe86ea9") format("woff"),
+url("./icons.ttf?3f21edd9bb5a6557f0c1411b7fe86ea9") format("truetype"),
+url("./icons.svg?3f21edd9bb5a6557f0c1411b7fe86ea9#icons") format("svg");
+}
+
+i[class^="kilo-"]:before, i[class*=" kilo-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.kilo-deprecated:before {
+    content: "\f101";
+}
+.kilo-mypthub:before {
+    content: "\f102";
+}
+.kilo-prototype:before {
+    content: "\f103";
+}
+.kilo-ready:before {
+    content: "\f104";
+}
+.kilo-review:before {
+    content: "\f105";
+}
