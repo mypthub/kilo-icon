@@ -11,7 +11,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "icon-font-generator src/icons/*.svg -o dist/icon-font --name='kilo-icons' --tag='i' --selector='.k-icon' --ligature --htmltp=src/templates/html.hbs --csstp=src/templates/css.hbs"
+    "build": "icon-font-generator src/icons/*.svg -o dist/icon-font --name='kilo-icons' --types='ttf, woff, woff2, eot' --tag='i' --selector='.k-icon' --ligature --htmltp=src/templates/html.hbs --csstp=src/templates/css.hbs"
   },
   "repository": {
     "type": "git",
