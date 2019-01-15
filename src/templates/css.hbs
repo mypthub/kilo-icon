@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "{{ fontName }}";
+  src: {{{ src }}};
+}
+
+{{# if baseSelector }}
+  {{ baseSelector }} {
+{{ else }}
+  {{ baseTag }}[class^="{{classPrefix}}"], {{ baseTag }}[class*=" {{classPrefix}}"] {
+{{/ if }}
+    font-family: {{ fontName }} !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-variant-ligatures: 'liga';
+  }
+
