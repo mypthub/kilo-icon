@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M228.533881,28.0451812 L166.041281,154.740451 L26.222464,175.122696 C1.14886363,178.758965 -8.89971666,209.667252 9.28342863,227.37014 L110.439137,325.93217 L86.5139457,465.162999 C82.2074113,490.329808 108.716523,509.180992 130.919101,497.410964 L256,431.671047 L381.080899,497.410964 C403.283477,509.085301 429.792589,490.329808 425.486054,465.162999 L401.560863,325.93217 L502.716571,227.37014 C520.899717,209.667252 510.851136,178.758965 485.777536,175.122696 L345.958719,154.740451 L283.466119,28.0451812 C272.26913,5.46203651 239.826571,5.17496263 228.533881,28.0451812 Z" id="path-1"></path>
+    </defs>
+    <g id="star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#17191D" xlink:href="#path-1"></use>
+    </g>
+</svg>

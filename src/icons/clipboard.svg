@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>clipboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M445,112 L445,464 C445,490.51 423.845781,512 397.75,512 L114.25,512 C88.1542188,512 67,490.51 67,464 L67,112 C67,85.49 88.1542188,64 114.25,64 L193,64 C193,28.71 221.261406,0 256,0 C290.738594,0 319,28.71 319,64 L397.75,64 C423.845781,64 445,85.49 445,112 Z M256,40 C242.952109,40 232.375,50.745 232.375,64 C232.375,77.255 242.952109,88 256,88 C269.047891,88 279.625,77.255 279.625,64 C279.625,50.745 269.047891,40 256,40 Z M350.5,154 L350.5,134 C350.5,130.686292 347.855682,128 344.59375,128 L167.40625,128 C164.144318,128 161.5,130.686292 161.5,134 L161.5,154 C161.5,157.313708 164.144318,160 167.40625,160 L344.59375,160 C347.855682,160 350.5,157.313708 350.5,154 Z" id="path-1"></path>
+    </defs>
+    <g id="clipboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#17191D" xlink:href="#path-1"></use>
+    </g>
+</svg>

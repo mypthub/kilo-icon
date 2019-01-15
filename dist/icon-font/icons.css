@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?3f21edd9bb5a6557f0c1411b7fe86ea9?#iefix") format("embedded-opentype"),
-url("./icons.woff2?3f21edd9bb5a6557f0c1411b7fe86ea9") format("woff2"),
-url("./icons.woff?3f21edd9bb5a6557f0c1411b7fe86ea9") format("woff"),
-url("./icons.ttf?3f21edd9bb5a6557f0c1411b7fe86ea9") format("truetype"),
-url("./icons.svg?3f21edd9bb5a6557f0c1411b7fe86ea9#icons") format("svg");
+    src: url("./icons.eot?1fef2280af02246afcffdf992cba4759?#iefix") format("embedded-opentype"),
+url("./icons.woff2?1fef2280af02246afcffdf992cba4759") format("woff2"),
+url("./icons.woff?1fef2280af02246afcffdf992cba4759") format("woff"),
+url("./icons.ttf?1fef2280af02246afcffdf992cba4759") format("truetype"),
+url("./icons.svg?1fef2280af02246afcffdf992cba4759#icons") format("svg");
 }
 
 i[class^="kilo-"]:before, i[class*=" kilo-"]:before {
@@ -18,18 +18,81 @@ i[class^="kilo-"]:before, i[class*=" kilo-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.kilo-deprecated:before {
+.kilo-bell:before {
     content: "\f101";
 }
-.kilo-mypthub:before {
+.kilo-chevron-down:before {
     content: "\f102";
 }
-.kilo-prototype:before {
+.kilo-chevron-left:before {
     content: "\f103";
 }
-.kilo-ready:before {
+.kilo-chevron-right:before {
     content: "\f104";
 }
-.kilo-review:before {
+.kilo-chevron-up:before {
     content: "\f105";
+}
+.kilo-clipboard:before {
+    content: "\f106";
+}
+.kilo-close:before {
+    content: "\f107";
+}
+.kilo-cog:before {
+    content: "\f108";
+}
+.kilo-deprecated:before {
+    content: "\f109";
+}
+.kilo-edit:before {
+    content: "\f10a";
+}
+.kilo-ellipsis:before {
+    content: "\f10b";
+}
+.kilo-exchange:before {
+    content: "\f10c";
+}
+.kilo-filter:before {
+    content: "\f10d";
+}
+.kilo-folder:before {
+    content: "\f10e";
+}
+.kilo-home:before {
+    content: "\f10f";
+}
+.kilo-info:before {
+    content: "\f110";
+}
+.kilo-measurements:before {
+    content: "\f111";
+}
+.kilo-mypthub:before {
+    content: "\f112";
+}
+.kilo-prototype:before {
+    content: "\f113";
+}
+.kilo-ready:before {
+    content: "\f114";
+}
+.kilo-repeat:before {
+    content: "\f115";
+}
+.kilo-review:before {
+    content: "\f116";
+}
+.kilo-search:before {
+    content: "\f117";
+}
+.kilo-star:before {
+    content: "\f118";
+}
+.kilo-user:before {
+    content: "\f119";
+}
+.kilo-workout:before {
+    content: "\f11a";
 }
