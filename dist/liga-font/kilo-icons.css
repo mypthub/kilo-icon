@@ -1,9 +1,9 @@
 @font-face {
   font-family: "kilo-icons";
-  src: url("./kilo-icons.eot?1690e7c828748e65d82b8ec3d915a77e?#iefix") format("embedded-opentype"),
-url("./kilo-icons.woff2?1690e7c828748e65d82b8ec3d915a77e") format("woff2"),
-url("./kilo-icons.woff?1690e7c828748e65d82b8ec3d915a77e") format("woff"),
-url("./kilo-icons.ttf?1690e7c828748e65d82b8ec3d915a77e") format("truetype");
+  src: url("./kilo-icons.eot?c4a2375e5d4249fcf3bc6ec56743fbf5?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?c4a2375e5d4249fcf3bc6ec56743fbf5") format("woff2"),
+url("./kilo-icons.woff?c4a2375e5d4249fcf3bc6ec56743fbf5") format("woff"),
+url("./kilo-icons.ttf?c4a2375e5d4249fcf3bc6ec56743fbf5") format("truetype");
 }
 
   .k-icon {

@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "kilo-icons";
-    src: url("./kilo-icons.eot?c4128121f3c36e5be087a02384df465d?#iefix") format("embedded-opentype"),
-url("./kilo-icons.woff2?c4128121f3c36e5be087a02384df465d") format("woff2"),
-url("./kilo-icons.woff?c4128121f3c36e5be087a02384df465d") format("woff"),
-url("./kilo-icons.ttf?c4128121f3c36e5be087a02384df465d") format("truetype");
+font-family: "kilo-icons";
+src: url("./kilo-icons.eot?e4aa3a88b67e53ff0849cc3e93e29245?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?e4aa3a88b67e53ff0849cc3e93e29245") format("woff2"),
+url("./kilo-icons.woff?e4aa3a88b67e53ff0849cc3e93e29245") format("woff"),
+url("./kilo-icons.ttf?e4aa3a88b67e53ff0849cc3e93e29245") format("truetype");
 }
 
-i[class^="icon-"], i[class*=" icon-"] {
+  i[class^="icon-"]:before, i[class*=" icon-"]:before {
     font-family: kilo-icons !important;
     font-style: normal;
     font-weight: normal !important;
@@ -15,6 +15,83 @@ i[class^="icon-"], i[class*=" icon-"] {
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-variant-ligatures: 'liga';
 }
 
+    .icon-bell:before {
+  content: "\f101";
+  }
+    .icon-chevron_down:before {
+  content: "\f102";
+  }
+    .icon-chevron_left:before {
+  content: "\f103";
+  }
+    .icon-chevron_right:before {
+  content: "\f104";
+  }
+    .icon-chevron_up:before {
+  content: "\f105";
+  }
+    .icon-clipboard:before {
+  content: "\f106";
+  }
+    .icon-close:before {
+  content: "\f107";
+  }
+    .icon-cog:before {
+  content: "\f108";
+  }
+    .icon-deprecated:before {
+  content: "\f109";
+  }
+    .icon-edit:before {
+  content: "\f10a";
+  }
+    .icon-ellipsis:before {
+  content: "\f10b";
+  }
+    .icon-filter:before {
+  content: "\f10c";
+  }
+    .icon-folder:before {
+  content: "\f10d";
+  }
+    .icon-home:before {
+  content: "\f10e";
+  }
+    .icon-info:before {
+  content: "\f10f";
+  }
+    .icon-measurements:before {
+  content: "\f110";
+  }
+    .icon-mypthub:before {
+  content: "\f111";
+  }
+    .icon-prototype:before {
+  content: "\f112";
+  }
+    .icon-ready:before {
+  content: "\f113";
+  }
+    .icon-repeat:before {
+  content: "\f114";
+  }
+    .icon-review:before {
+  content: "\f115";
+  }
+    .icon-search:before {
+  content: "\f116";
+  }
+    .icon-sort:before {
+  content: "\f117";
+  }
+    .icon-star:before {
+  content: "\f118";
+  }
+    .icon-user:before {
+  content: "\f119";
+  }
+    .icon-workout:before {
+  content: "\f11a";
+  }

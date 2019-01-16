@@ -11,7 +11,6 @@
         "deprecated",
         "edit",
         "ellipsis",
-        "exchange",
         "filter",
         "folder",
         "home",
@@ -23,6 +22,7 @@
         "repeat",
         "review",
         "search",
+        "sort",
         "star",
         "user",
         "workout"
