@@ -983,7 +983,7 @@ svgicons2svgfont@^5.0.0:
     string.prototype.codepointat "^0.2.0"
     svg-pathdata "^1.0.4"
 
-svgpath@^2.1.5:
+svgpath@^2.1.5, svgpath@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/svgpath/-/svgpath-2.2.1.tgz#0834bb67c89a76472b2bd06cc101fa7b517b222c"
 

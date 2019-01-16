@@ -11,6 +11,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
+    "transform": "node ./src/utils/transformsvg.js",
     "build": "npm-run-all build:font build:ligatures",
     "build:font": "icon-font-generator src/icons/*.svg -o dist/icon-font --name='kilo-icons' --types='ttf, woff, woff2, eot'",
     "build:ligatures": "icon-font-generator src/icons/*.svg -o dist/liga-font --name='kilo-icons' --types='ttf, woff, woff2, eot' --tag='i' --selector='.k-icon' --ligature --htmltp=src/templates/html.hbs --csstp=src/templates/css.hbs"
@@ -22,7 +23,8 @@
   "keywords": [],
   "dependencies": {
     "icon-font-generator": "https://github.com/denisgruba/icon-font-generator.git",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "svgpath": "^2.2.1"
   },
   "devDependencies": {},
   "engines": {
