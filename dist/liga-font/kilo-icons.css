@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "kilo-icons";
+  src: url("./kilo-icons.eot?1690e7c828748e65d82b8ec3d915a77e?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?1690e7c828748e65d82b8ec3d915a77e") format("woff2"),
+url("./kilo-icons.woff?1690e7c828748e65d82b8ec3d915a77e") format("woff"),
+url("./kilo-icons.ttf?1690e7c828748e65d82b8ec3d915a77e") format("truetype");
+}
+
+  .k-icon {
+    font-family: kilo-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-variant-ligatures: 'liga';
+  }
+
