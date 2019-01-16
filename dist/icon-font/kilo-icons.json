@@ -1,1 +1,30 @@
-{}
+{
+    "ligatures": [
+        "bell",
+        "chevron_down",
+        "chevron_left",
+        "chevron_right",
+        "chevron_up",
+        "clipboard",
+        "close",
+        "cog",
+        "deprecated",
+        "edit",
+        "ellipsis",
+        "exchange",
+        "filter",
+        "folder",
+        "home",
+        "info",
+        "measurements",
+        "mypthub",
+        "prototype",
+        "ready",
+        "repeat",
+        "review",
+        "search",
+        "star",
+        "user",
+        "workout"
+    ]
+}

@@ -278,7 +278,7 @@ http-signature@~1.2.0:
 
 "icon-font-generator@https://github.com/denisgruba/icon-font-generator.git":
   version "2.1.10"
-  resolved "https://github.com/denisgruba/icon-font-generator.git#c7b101b2df10074ed177fa4df40ab0962e8c9573"
+  resolved "https://github.com/denisgruba/icon-font-generator.git#2033299375f70ce4ad615e997c9ca3c48c86623c"
   dependencies:
     colors "^1.2.1"
     glob "^7.1.2"
