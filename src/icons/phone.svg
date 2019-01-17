@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M488.397,24.615 L384.397,0.618 C373.083,-1.993 361.518,3.87 356.941,14.549 L308.941,126.546 C304.72891,136.374412 307.527049,147.803883 315.803,154.575 L376.42,204.171 C340.447,280.846 277.482,344.679 199.171,381.419 L149.575,320.803 C142.803883,312.527049 131.374412,309.72891 121.546,313.941 L9.549,361.941 C-1.127,366.516 -6.994,378.08 -4.382,389.397 L19.615,493.397 C22.109,504.204 31.748,512 43,512 C299.087,512 507,304.468 507,48 C507,36.824 499.286,27.127 488.397,24.615 Z" id="path-1"></path>
+    </defs>
+    <g id="phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#17191D" xlink:href="#path-1"></use>
+    </g>
+</svg>

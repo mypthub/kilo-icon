@@ -1,9 +1,9 @@
 @font-face {
 font-family: "kilo-icons";
-src: url("./kilo-icons.eot?440b01df20a71ba4ff82b8a7565b1cab?#iefix") format("embedded-opentype"),
-url("./kilo-icons.woff2?440b01df20a71ba4ff82b8a7565b1cab") format("woff2"),
-url("./kilo-icons.woff?440b01df20a71ba4ff82b8a7565b1cab") format("woff"),
-url("./kilo-icons.ttf?440b01df20a71ba4ff82b8a7565b1cab") format("truetype");
+src: url("./kilo-icons.eot?3b60e44866bddfffe28941edcacbfca0?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?3b60e44866bddfffe28941edcacbfca0") format("woff2"),
+url("./kilo-icons.woff?3b60e44866bddfffe28941edcacbfca0") format("woff"),
+url("./kilo-icons.ttf?3b60e44866bddfffe28941edcacbfca0") format("truetype");
 }
 
   i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -17,81 +17,111 @@ url("./kilo-icons.ttf?440b01df20a71ba4ff82b8a7565b1cab") format("truetype");
     -moz-osx-font-smoothing: grayscale;
 }
 
-    .icon-bell:before {
+    .icon-attach:before {
   content: "\f101";
   }
-    .icon-chevron_down:before {
+    .icon-bell:before {
   content: "\f102";
   }
-    .icon-chevron_left:before {
+    .icon-calendar:before {
   content: "\f103";
   }
-    .icon-chevron_right:before {
+    .icon-chevron_down:before {
   content: "\f104";
   }
-    .icon-chevron_up:before {
+    .icon-chevron_left:before {
   content: "\f105";
   }
-    .icon-clipboard:before {
+    .icon-chevron_right:before {
   content: "\f106";
   }
-    .icon-close:before {
+    .icon-chevron_up:before {
   content: "\f107";
   }
-    .icon-cog:before {
+    .icon-clipboard:before {
   content: "\f108";
   }
-    .icon-deprecated:before {
+    .icon-close:before {
   content: "\f109";
   }
-    .icon-edit:before {
+    .icon-cog:before {
   content: "\f10a";
   }
-    .icon-ellipsis:before {
+    .icon-data:before {
   content: "\f10b";
   }
-    .icon-filter:before {
+    .icon-delete:before {
   content: "\f10c";
   }
-    .icon-folder:before {
+    .icon-edit:before {
   content: "\f10d";
   }
-    .icon-home:before {
+    .icon-ellipsis:before {
   content: "\f10e";
   }
-    .icon-info:before {
+    .icon-email:before {
   content: "\f10f";
   }
-    .icon-measurements:before {
+    .icon-filter:before {
   content: "\f110";
   }
-    .icon-mypthub:before {
+    .icon-folder:before {
   content: "\f111";
   }
-    .icon-prototype:before {
+    .icon-home:before {
   content: "\f112";
   }
-    .icon-ready:before {
+    .icon-info:before {
   content: "\f113";
   }
-    .icon-repeat:before {
+    .icon-kilo_ds_deprecated:before {
   content: "\f114";
   }
-    .icon-review:before {
+    .icon-kilo_ds_prototype:before {
   content: "\f115";
   }
-    .icon-search:before {
+    .icon-kilo_ds_ready:before {
   content: "\f116";
   }
-    .icon-sort:before {
+    .icon-kilo_ds_review:before {
   content: "\f117";
   }
-    .icon-star:before {
+    .icon-measurements:before {
   content: "\f118";
   }
-    .icon-user:before {
+    .icon-mypthub:before {
   content: "\f119";
   }
-    .icon-workout:before {
+    .icon-phone:before {
   content: "\f11a";
+  }
+    .icon-repeat:before {
+  content: "\f11b";
+  }
+    .icon-search:before {
+  content: "\f11c";
+  }
+    .icon-share:before {
+  content: "\f11d";
+  }
+    .icon-sort:before {
+  content: "\f11e";
+  }
+    .icon-star:before {
+  content: "\f11f";
+  }
+    .icon-success:before {
+  content: "\f120";
+  }
+    .icon-tag:before {
+  content: "\f121";
+  }
+    .icon-upload:before {
+  content: "\f122";
+  }
+    .icon-user:before {
+  content: "\f123";
+  }
+    .icon-workout:before {
+  content: "\f124";
   }

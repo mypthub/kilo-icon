@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M291,384 L211,384 C197.7,384 187,373.3 187,360 L187,192 L99.3,192 C81.5,192 72.6,170.5 85.2,157.9 L237.3,5.7 C244.8,-1.8 257.1,-1.8 264.6,5.7 L416.8,157.9 C429.4,170.5 420.5,192 402.7,192 L315,192 L315,360 C315,373.3 304.3,384 291,384 Z M507,376 L507,488 C507,501.3 496.3,512 483,512 L19,512 C5.7,512 -5,501.3 -5,488 L-5,376 C-5,362.7 5.7,352 19,352 L155,352 L155,360 C155,390.9 180.1,416 211,416 L291,416 C321.9,416 347,390.9 347,360 L347,352 L483,352 C496.3,352 507,362.7 507,376 Z M383,464 C383,453 374,444 363,444 C352,444 343,453 343,464 C343,475 352,484 363,484 C374,484 383,475 383,464 Z M447,464 C447,453 438,444 427,444 C416,444 407,453 407,464 C407,475 416,484 427,484 C438,484 447,475 447,464 Z" id="path-1"></path>
+    </defs>
+    <g id="upload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#17191D" xlink:href="#path-1"></use>
+    </g>
+</svg>
