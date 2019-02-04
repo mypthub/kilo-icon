@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>photo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M512,144 L512,432 C512,458.5 490.5,480 464,480 L48,480 C21.5,480 0,458.5 0,432 L0,144 C0,117.5 21.5,96 48,96 L136,96 L148.3,63.1 C155.3,44.4 173.2,32 193.2,32 L318.7,32 C338.7,32 356.6,44.4 363.6,63.1 L376,96 L464,96 C490.5,96 512,117.5 512,144 Z M376,288 C376,221.8 322.2,168 256,168 C189.8,168 136,221.8 136,288 C136,354.2 189.8,408 256,408 C322.2,408 376,354.2 376,288 Z M344,288 C344,336.5 304.5,376 256,376 C207.5,376 168,336.5 168,288 C168,239.5 207.5,200 256,200 C304.5,200 344,239.5 344,288 Z" id="path-1"></path>
+    </defs>
+    <g id="photo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#17191D" xlink:href="#path-1"></use>
+    </g>
+</svg>
