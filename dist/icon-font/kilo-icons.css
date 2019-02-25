@@ -1,9 +1,9 @@
 @font-face {
 font-family: "kilo-icons";
-src: url("./kilo-icons.eot?e37e8089ead02f1ef508142255ae14dd?#iefix") format("embedded-opentype"),
-url("./kilo-icons.woff2?e37e8089ead02f1ef508142255ae14dd") format("woff2"),
-url("./kilo-icons.woff?e37e8089ead02f1ef508142255ae14dd") format("woff"),
-url("./kilo-icons.ttf?e37e8089ead02f1ef508142255ae14dd") format("truetype");
+src: url("./kilo-icons.eot?017960af1337619e93f486d6702df9e8?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?017960af1337619e93f486d6702df9e8") format("woff2"),
+url("./kilo-icons.woff?017960af1337619e93f486d6702df9e8") format("woff"),
+url("./kilo-icons.ttf?017960af1337619e93f486d6702df9e8") format("truetype");
 }
 
   i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -107,7 +107,7 @@ url("./kilo-icons.ttf?e37e8089ead02f1ef508142255ae14dd") format("truetype");
     .icon-mypthub:before {
   content: "\f11e";
   }
-    .icon-nutrition-plan:before {
+    .icon-nutrition:before {
   content: "\f11f";
   }
     .icon-phone:before {
