@@ -1,9 +1,9 @@
 @font-face {
 font-family: "kilo-icons";
-src: url("./kilo-icons.eot?420ebeb658502890817faa2e1cf910f1?#iefix") format("embedded-opentype"),
-url("./kilo-icons.woff2?420ebeb658502890817faa2e1cf910f1") format("woff2"),
-url("./kilo-icons.woff?420ebeb658502890817faa2e1cf910f1") format("woff"),
-url("./kilo-icons.ttf?420ebeb658502890817faa2e1cf910f1") format("truetype");
+src: url("./kilo-icons.eot?f1f92ed1095ac5ed795da91040ef6237?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?f1f92ed1095ac5ed795da91040ef6237") format("woff2"),
+url("./kilo-icons.woff?f1f92ed1095ac5ed795da91040ef6237") format("woff"),
+url("./kilo-icons.ttf?f1f92ed1095ac5ed795da91040ef6237") format("truetype");
 }
 
   i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -149,7 +149,7 @@ url("./kilo-icons.ttf?420ebeb658502890817faa2e1cf910f1") format("truetype");
     .icon-tag:before {
   content: "\f12c";
   }
-    .icon-thumbs-up:before {
+    .icon-thumbs_up:before {
   content: "\f12d";
   }
     .icon-twitter:before {
