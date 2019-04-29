@@ -1,6 +1,6 @@
 {
   "name": "kilo-icon",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Kilo Design System Icon Font generator",
   "author": "Denis Gruba <denis.gruba@mypthub.net>",
   "main": "dist/index.js",
