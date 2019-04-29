@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>duplicate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="duplicate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M388,388 L388,486 C388,500.359403 376.359403,512 362,512 L26,512 C11.6405965,512 -5.68434189e-14,500.359403 -5.68434189e-14,486 L-5.68434189e-14,150 C-5.68434189e-14,135.640597 11.6405965,124 26,124 L124,124 L124,26 C124,11.6405965 135.640597,0 150,0 L486,0 C500.359403,0 512,11.6405965 512,26 L512,362 C512,376.359403 500.359403,388 486,388 L388,388 Z M340,388 L150,388 C135.640597,388 124,376.359403 124,362 L124,172 L48,172 L48,464 L340,464 L340,388 Z M172,48 L172,340 L464,340 L464,48 L172,48 Z" id="Combined-Shape" fill="#282828"></path>
+    </g>
+</svg>

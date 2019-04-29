@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>radio-on</title>
+    <desc>Created with Sketch.</desc>
+    <g id="radio-on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(71.000000, 71.000000)" fill="#282828">
+            <path d="M184,322 C260.215295,322 322,260.215295 322,184 C322,107.784705 260.215295,46 184,46 C107.784705,46 46,107.784705 46,184 C46,260.215295 107.784705,322 184,322 Z M184,368 C82.379606,368 0,285.620394 0,184 C0,82.379606 82.379606,0 184,0 C285.620394,0 368,82.379606 368,184 C368,285.620394 285.620394,368 184,368 Z" id="Oval"></path>
+            <circle id="Oval" cx="184" cy="184" r="107.333333"></circle>
+        </g>
+    </g>
+</svg>

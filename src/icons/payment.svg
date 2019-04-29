@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>payment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="payment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M39.3846154,59 C17.6246154,59 0,76.6246154 0,98.3846154 L0,118.076923 L512,118.076923 L512,98.3846154 C512,76.6246154 494.375385,59 472.615385,59 L39.3846154,59 Z M0,177.153846 L0,413.461538 C0,435.221538 17.6246154,452.846154 39.3846154,452.846154 L472.615385,452.846154 C494.375385,452.846154 512,435.221538 512,413.461538 L512,177.153846 L0,177.153846 Z M59.0769231,216.538462 L216.615385,216.538462 L216.615385,236.230769 L59.0769231,236.230769 L59.0769231,216.538462 Z" id="Shape" fill="#282828"></path>
+    </g>
+</svg>
