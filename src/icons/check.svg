@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
-    <title>check-box-check</title>
-    <desc>Created with Sketch.</desc>
-    <g id="check-box-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M365.116864,203.662318 L243.813227,324.965955 C240.796682,327.9825 236.721136,329.667273 232.469091,329.667273 C228.217045,329.667273 224.125455,327.9825 221.124955,324.965955 L165.72,269.561 C159.446227,263.287227 159.446227,253.1465 165.72,246.872727 C171.993773,240.598955 182.1345,240.598955 188.408273,246.872727 L232.469091,290.933545 L342.428591,180.974045 C348.702364,174.700273 358.843091,174.700273 365.116864,180.974045 C371.390636,187.247818 371.390636,197.388545 365.116864,203.662318 Z" id="Shape" fill="#282828"></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="svg-inline--fa fa-check fa-w-16" data-icon="check" data-prefix="fas" focusable="false" role="img" viewBox="0 0 512 512">
+    <path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"/>
 </svg>

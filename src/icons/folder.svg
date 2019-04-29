@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>folder</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M463.999866,110 L271.999921,110 L207.99994,37 L47.9999861,37 C21.4899938,37 3.12638804e-13,61.5120312 3.12638804e-13,91.75 L3.12638804e-13,420.25 C3.12638804e-13,450.487969 21.4899938,475 47.9999861,475 L463.999866,475 C490.509858,475 511.999852,450.487969 511.999852,420.25 L511.999852,164.75 C511.999852,134.512031 490.509858,110 463.999866,110 Z" id="path-1"></path>
-    </defs>
     <g id="folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use id="Mask" fill="#17191D" xlink:href="#path-1"></use>
+        <path d="M37.5384615,38 C15.6934615,38 -2,55.7779545 -2,77.7272727 L-2,137.318182 L-2,435.272727 C-2,457.222045 15.6934615,475 37.5384615,475 L472.461538,475 C494.306538,475 512,457.222045 512,435.272727 L512,117.454545 C512,95.5052273 494.306538,77.7272727 472.461538,77.7272727 L179.861483,77.7272727 L167.660151,57.2816934 C160.523459,45.3237843 147.656784,38 133.759014,38 L37.5384615,38 Z" id="Path" stroke="#282828" stroke-width="48"></path>
     </g>
 </svg>
