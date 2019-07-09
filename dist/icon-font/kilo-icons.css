@@ -1,9 +1,9 @@
 @font-face {
 font-family: "kilo-icons";
-src: url("./kilo-icons.eot?df47567abf46cd3dc79d5067dc8f6baa?#iefix") format("embedded-opentype"),
-url("./kilo-icons.woff2?df47567abf46cd3dc79d5067dc8f6baa") format("woff2"),
-url("./kilo-icons.woff?df47567abf46cd3dc79d5067dc8f6baa") format("woff"),
-url("./kilo-icons.ttf?df47567abf46cd3dc79d5067dc8f6baa") format("truetype");
+src: url("./kilo-icons.eot?4323d0bc8edfd162b9ea870589aad6a1?#iefix") format("embedded-opentype"),
+url("./kilo-icons.woff2?4323d0bc8edfd162b9ea870589aad6a1") format("woff2"),
+url("./kilo-icons.woff?4323d0bc8edfd162b9ea870589aad6a1") format("woff"),
+url("./kilo-icons.ttf?4323d0bc8edfd162b9ea870589aad6a1") format("truetype");
 }
 
   i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -173,63 +173,72 @@ url("./kilo-icons.ttf?df47567abf46cd3dc79d5067dc8f6baa") format("truetype");
     .icon-payment:before {
   content: "\f134";
   }
-    .icon-phone:before {
+    .icon-pdf:before {
   content: "\f135";
   }
-    .icon-photo:before {
+    .icon-phone:before {
   content: "\f136";
   }
-    .icon-printer:before {
+    .icon-photo:before {
   content: "\f137";
   }
-    .icon-radio_off:before {
+    .icon-printer:before {
   content: "\f138";
   }
-    .icon-radio_on:before {
+    .icon-question:before {
   content: "\f139";
   }
-    .icon-repeat:before {
+    .icon-radio_off:before {
   content: "\f13a";
   }
-    .icon-search:before {
+    .icon-radio_on:before {
   content: "\f13b";
   }
-    .icon-send:before {
+    .icon-repeat:before {
   content: "\f13c";
   }
-    .icon-share:before {
+    .icon-search:before {
   content: "\f13d";
   }
-    .icon-sort:before {
+    .icon-send:before {
   content: "\f13e";
   }
-    .icon-star:before {
+    .icon-share:before {
   content: "\f13f";
   }
-    .icon-success:before {
+    .icon-sort:before {
   content: "\f140";
   }
-    .icon-tag:before {
+    .icon-stack:before {
   content: "\f141";
   }
-    .icon-thumbs_up:before {
+    .icon-star:before {
   content: "\f142";
   }
-    .icon-timer:before {
+    .icon-success:before {
   content: "\f143";
   }
-    .icon-twitter:before {
+    .icon-tag:before {
   content: "\f144";
   }
-    .icon-upload:before {
+    .icon-thumbs_up:before {
   content: "\f145";
   }
-    .icon-user:before {
+    .icon-timer:before {
   content: "\f146";
   }
-    .icon-view:before {
+    .icon-twitter:before {
   content: "\f147";
   }
-    .icon-workout:before {
+    .icon-upload:before {
   content: "\f148";
+  }
+    .icon-user:before {
+  content: "\f149";
+  }
+    .icon-view:before {
+  content: "\f14a";
+  }
+    .icon-workout:before {
+  content: "\f14b";
   }
