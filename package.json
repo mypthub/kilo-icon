@@ -1,5 +1,5 @@
 {
-  "name": "kilo-icon",
+  "name": "@mypthub/kilo-icon",
   "version": "0.7.0",
   "description": "Kilo Design System Icon Font generator",
   "author": "Denis Gruba <denis.gruba@mypthub.net>",
@@ -15,10 +15,6 @@
     "build": "npm-run-all build:font build:ligatures",
     "build:font": "icon-font-generator src/icons/*.svg -o dist/icon-font --name='kilo-icons' --types='ttf, woff, woff2, eot'",
     "build:ligatures": "icon-font-generator src/icons/*.svg -o dist/liga-font --name='kilo-icons' --types='ttf, woff, woff2, eot' --tag='i' --selector='.k-icon' --ligature --htmltp=src/templates/html.hbs --csstp=src/templates/css.hbs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://Denisgruba@bitbucket.org/mpth/kilo-icon.git"
   },
   "keywords": [],
   "dependencies": {
@@ -41,5 +37,8 @@
     "not BlackBerry > 0",
     "not OperaMini all",
     "not OperaMobile > 0"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
