@@ -8,7 +8,6 @@
     "dist"
   ],
   "homepage": "",
-  "private": true,
   "license": "MIT",
   "scripts": {
     "transform": "node ./src/utils/transformsvg.js",
